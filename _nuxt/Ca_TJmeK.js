@@ -1,0 +1,1 @@
+import e from"./Bu9ysmFA.js";import{d as t,ai as o,o as r,k as a}from"./CkfQ_2zm.js";import"./qL0Xx3BB.js";import"./zLpr9ijM.js";import"./BczuW0wr.js";const f=t({__name:"index",setup(i){return o({title:"PredictFi"}),(n,p)=>(r(),a(e))}});export{f as default};
